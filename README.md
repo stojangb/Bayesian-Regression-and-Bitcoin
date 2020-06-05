@@ -1,3 +1,18 @@
+#Conclusión: La idea de generar dinero a partir de las criptomonedas es alucinante, este proyecto busca justo eso, sin embargo creo que vamos por el camino equivocado.
+
+#Las transacciones sobre Bitcoin - o cualquier otra criptomoneda - son extremadamente volátiles, por lo menos hasta ahora, ya veremos que pasa con RadixDlt (Hay que estar muy pendientes), al ser tan extrema la volatilidad no hay predicción que logre una sombra de éxito.
+
+#Existen estudios que analizan twitter, y los trending topic o #hashtag que han intentando predecir con indicadores hacia donde se podría dirigir el precio del bitcoin, hasta ahora no han logrado resultados concluyentes.
+
+#A pesar de eso, creo firmemente que el análisis de internet puede predecir en parte el precio del Bitcoin, sobre todo por la cantidad de información existente, y se pueden hacer comparaciones entre las noticias y el precio de la criptomoneda.
+
+#El principal problema es el poco tiempo de vida del Bitcoin, aún no podemos analizar la reacción de la criptomoneda ante diferentes crisis financieras, actualmente con la crisis del covid-19 se están dando diferentes escenarios que están poniendo la criptomoneda a prueba, sobre todo porque las personas buscan un refugio para su dinero, en próximas crisis estas curvas se pueden repetir.
+
+#La mejor forma de saber que es lo que se viene es estar atentos, analizar el precio del bitcoin en diferentes fechas, probablemente no lo sepamos pero nuestro cerebro genere un aprendizaje inconsciente sobre el precio del bitcoin.
+
+#Sí existiera una forma de predecir el valor del bitcoin en un futuro, la formula serviría solo para unos pocos, al tener un gran número de personas la misma formula, la formula se desvanece, no podemos ganar dinero invirtiendo en acciones si todos compramos y retiramos el dinero al mismo tiempo, lo mismo pasa con el bitcoin.
+
+
 # Bayesian-Regression-and-Bitcoin
 Predicting Bitcoin Price Variations using Bayesian Regression
 
